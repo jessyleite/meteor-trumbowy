@@ -1,0 +1,1 @@
+$.trumbowyg.svgPath = '/packages/jessyleite_meteor-trumbowy/dist_trumbowy/ui/icons.svg';
